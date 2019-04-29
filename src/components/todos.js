@@ -4,7 +4,8 @@ let  Todos = () => {
 
   return (
     <Layout>
-      <h1>todo</h1>
+      <h1>todos</h1>
+	  
     </Layout>
   )
 
